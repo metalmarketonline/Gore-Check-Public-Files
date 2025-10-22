@@ -1,0 +1,54 @@
+Privacy Policy for Gore Check
+================================
+
+**Last updated:** [23/10/2025]
+
+Thank you for using Gore Check ("we", "us", or "our"). This Privacy Policy is designed to inform you about how we collect, use, and disclose information when you use our mobile application (the "Service").
+
+Please read this Privacy Policy carefully.
+
+Information Collection and Use
+--------------------------------
+
+For a better experience while using our Service, we may require you to provide us with certain information. The information that we request will be retained by us and used as described in this privacy policy.
+
+The app does use third-party services that may collect information used to identify you.
+
+**1. Information You Provide**
+   - **Search Queries:** We collect the search queries (movie and TV show titles) you enter into the app. This information is sent to third-party services (The Movie Database and Google Gemini) to provide the app's core functionality. We do not store your search history.
+
+**2. Automatically Collected Information**
+   - **Device Region:** The app automatically detects your device's country code (e.g., "US", "AU", "GB") from your device's default locale settings. This is used to provide region-specific information for content ratings and "Where to Watch" services. This information is not stored and is not personally identifiable.
+   - **Advertising Data:** Our advertising partner, Google AdMob, collects device information, advertising IDs, IP addresses, and usage data to serve personalized advertisements.
+   - **Analytics Data:** We may use third-party services, such as Google Play services, to collect anonymous usage and crash data to help us improve the app.
+
+Third-Party Services
+--------------------
+
+Our app relies on the following third-party services, which have their own Privacy Policies. We recommend you review them.
+
+- **The Movie Database (TMDB):** Used to fetch movie and TV show details, posters, and watch provider information. [https://www.themoviedb.org/privacy-policy](https://www.themoviedb.org/privacy-policy)
+- **Google Gemini API:** Used to generate the "Gore Rating" and "Notable Scenes" analysis. This is part of the Google ecosystem. [https://policies.google.com/privacy](https://policies.google.com/privacy)
+- **Google AdMob & Google Play Services:** Used for displaying ads and for basic analytics. [https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+Data Security
+-------------
+
+We value your trust in providing us with your information. While we strive to use commercially acceptable means of protecting it, remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. As we do not operate our own servers, the security of the data passed to third-party services is governed by their respective privacy policies.
+
+Children's Privacy
+-----------------
+
+This Service is not intended for use by anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take the necessary actions.
+
+Changes to This Privacy Policy
+------------------------------
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+
+Contact Us
+----------
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+**[bjgamesonline@gmail.com]**
